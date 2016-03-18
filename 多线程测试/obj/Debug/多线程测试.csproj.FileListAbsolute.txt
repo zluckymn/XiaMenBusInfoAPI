@@ -1,0 +1,6 @@
+F:\MN测试Project\公交查询测试接口\多线程测试\bin\Debug\多线程测试.exe.config
+F:\MN测试Project\公交查询测试接口\多线程测试\bin\Debug\多线程测试.exe
+F:\MN测试Project\公交查询测试接口\多线程测试\bin\Debug\多线程测试.pdb
+F:\MN测试Project\公交查询测试接口\多线程测试\obj\Debug\多线程测试.csprojResolveAssemblyReference.cache
+F:\MN测试Project\公交查询测试接口\多线程测试\obj\Debug\多线程测试.exe
+F:\MN测试Project\公交查询测试接口\多线程测试\obj\Debug\多线程测试.pdb
